@@ -12,3 +12,5 @@ class BankAccount:
         print("Bank account type is: " + self.__Type)
         print("Balance is: " + str(self.__Balance))
 
+#         er is nu wat veranderd
+
